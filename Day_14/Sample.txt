@@ -1,0 +1,15 @@
+Write a program to count how many times character ‘t’ occurs in a file. 
+
+Write a program to count no of words in a text file and average word size.
+
+Write a program to count number of bytes in a image file(jpeg/png/gif).  
+Also find how much time it will take to upload the file on server if 
+internet speed is 256 bps(bits per second).
+
+Write a program to store your shopping details in a binary file(shopping.dat) 
+with information itemName, price, quantity. 
+(Use ObjectOutputStream to store Item class object ).
+
+Write a program to read data from shopping.dat file creted in above problem 
+and find total money spent on all shopping items. 
+(Use ObjectInputStream to read Item class object).
