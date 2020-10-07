@@ -12,7 +12,9 @@ public class CountWords {
 		String inp = sc.nextLine();
 		
 		int count = 0;
-		for(int i=0; i<inp.length(); i++) {
+		String[] arr = inp.split(" ");
+		
+		for(int i=0; i<arr.length; i++) {
 			
 			count++;
 		}
